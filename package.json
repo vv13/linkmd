@@ -1,9 +1,9 @@
 {
-  "name": "t",
-  "version": "1.0.0",
+  "name": "url2md",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "bin": "index",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "article-title": "^3.1.0",
-    "get-urls": "^10.0.0",
     "node-fetch": "^2.6.1"
   }
 }
