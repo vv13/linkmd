@@ -1,9 +1,9 @@
 {
-  "name": "url2md",
-  "version": "0.1.0",
+  "name": "linkmd",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
   }
 }
